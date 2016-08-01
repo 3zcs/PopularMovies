@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="failed">Failed to show images</string>
+    <string name="checkNetwork">Check Your Connection</string>
+    <string name="release_date">Release Date :</string>
+    <string name="rate">Rate :</string>
+    <string name="title">Title :</string>
+    <string name="plot_synopsis">General Overview</string>
+</resources>
